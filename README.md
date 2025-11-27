@@ -1,0 +1,3 @@
+In this study, we use 60-second biological sensor records from hundreds of participants to classify their activity states. We explore different features ranging from basic statistical metrics to advanced measures, such as
+Fourier Transform and Signal Magnitude Area. Our baseline approach uses Logistic Regression, but we further extend our analysis by incorporating the Random Forest model. This shift recognises the limitations of Logistic Regression’s linear decision boundaries when dealing with high-dimensional sensor data.
+Our methodology begins with data pre-processing and proceeds to test various types of feature mapping, analysing the improvements on the model through the comparison of AUC values.
